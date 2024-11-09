@@ -1,4 +1,4 @@
-# CT-MP Enhanced Portfolio
+# Enhanced Portfolio
 This repository contains the code for my personal portfolio website. The website serves as a showcase of my skills, work experience, projects, and other relevant information about my journey as a software developer. Built using HTML and CSS, this portfolio is designed with simplicity and clarity to create a professional online presence.
 
 ## Project Overview
